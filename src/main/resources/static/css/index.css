@@ -15,3 +15,22 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     border: 20px solid blue;
     
 }
+.cubo{
+    background-color:black;
+    widht: 10px;
+    heigt: 10px;
+    left:auto;  
+    
+    
+    
+}
+.borde{
+
+  width:300px;
+  height:100px;
+  border:3px solid brown;
+  border-radius:22px;
+    
+    
+    
+}
